@@ -4,13 +4,13 @@
 
 # PebblePlayer
 
-**A small, good-looking Spotify player for Windows that uses a fraction of the memory.**
+**Your Spotify on Windows, with synced lyrics, a mini player and listening parties, using a fraction of the memory.**
 
-<br>
+<a href="https://github.com/saintzdid12/pebble/releases/latest/download/PebblePlayer.exe">
+  <img src="https://img.shields.io/github/v/release/saintzdid12/pebble?style=for-the-badge&label=Download%20for%20Windows&color=2385aa&logo=windows11&logoColor=white&cacheSeconds=3600" alt="Download PebblePlayer for Windows" height="44">
+</a>
 
-<a href="https://github.com/saintzdid12/pebble/releases/latest/download/PebblePlayer.exe"><img src="images/download.png" width="300" alt="Download PebblePlayer for Windows"></a>
-
-<sub>Always the newest version · <a href="https://github.com/saintzdid12/pebble/releases/latest">Release notes</a> · <a href="https://github.com/saintzdid12/pebble/releases">All versions</a></sub>
+<sub>Windows 10 and 11 · under 1 MB · free · by Saintz</sub>
 
 <br><br>
 
@@ -18,13 +18,11 @@
 <img src="images/lyrics.png" width="31%" alt="Synced lyrics">&nbsp;
 <img src="images/search.png" width="31%" alt="Search">
 
-<sub>Now playing&nbsp;&nbsp;·&nbsp;&nbsp;Synced lyrics&nbsp;&nbsp;·&nbsp;&nbsp;Search</sub>
-
 </div>
 
 ## Why PebblePlayer
 
-- **Light.** One small app, under 1 MB, using far less memory than the regular Spotify app. Easy on games and streams.
+- **Easy on your PC.** Under 1 MB to download, and far less memory than the regular Spotify app. Games and streams stay smooth.
 - **Clean.** Glass design that takes its colors from the album art. No ads, no clutter.
 - **Synced lyrics** that load fast, plus lyrics for the next songs ready before they play.
 - **Mini player** that floats on top while you work or game.
@@ -33,15 +31,14 @@
 - **Festive mode** for the holidays: lights, snow and a Holiday tab, all switchable.
 
 <div align="center">
-<img src="images/mini.png" width="420" alt="Mini player"><br>
-<sub>The mini player</sub>
+<img src="images/mini.png" width="420" alt="Mini player">
 </div>
 
 ## Install
 
 1. **[Download PebblePlayer.exe](https://github.com/saintzdid12/pebble/releases/latest/download/PebblePlayer.exe)** and open it.
 2. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**.
-   This shows up because PebblePlayer is a small app from an independent developer, not because anything is wrong.
+   This shows up because PebblePlayer is from an independent developer, not because anything is wrong.
 3. Click **Yes** to install. PebblePlayer adds itself to your Desktop and Start menu and opens.
 4. Follow the short setup in the app: sign in with Spotify and make your free Spotify key (about 2 minutes, only once).
 
