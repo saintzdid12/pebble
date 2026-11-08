@@ -6,17 +6,19 @@
 
 **A small, good-looking Spotify player for Windows that uses a fraction of the memory.**
 
-<a href="https://github.com/saintzdid12/pebble/releases/latest/download/PebblePlayer.exe">
-  <img src="https://img.shields.io/github/v/release/saintzdid12/pebble?style=for-the-badge&label=Download%20for%20Windows&color=2385aa&logo=windows11&logoColor=white" alt="Download PebblePlayer for Windows" height="44">
-</a>
+<br>
 
-<sub>Windows 10 and 11 · under 1 MB · free · by Saintz</sub>
+<a href="https://github.com/saintzdid12/pebble/releases/latest/download/PebblePlayer.exe"><img src="images/download.png" width="300" alt="Download PebblePlayer for Windows"></a>
+
+<sub>Always the newest version · <a href="https://github.com/saintzdid12/pebble/releases/latest">Release notes</a> · <a href="https://github.com/saintzdid12/pebble/releases">All versions</a></sub>
 
 <br><br>
 
 <img src="images/now.png" width="31%" alt="Now playing">&nbsp;
 <img src="images/lyrics.png" width="31%" alt="Synced lyrics">&nbsp;
 <img src="images/search.png" width="31%" alt="Search">
+
+<sub>Now playing&nbsp;&nbsp;·&nbsp;&nbsp;Synced lyrics&nbsp;&nbsp;·&nbsp;&nbsp;Search</sub>
 
 </div>
 
@@ -31,7 +33,8 @@
 - **Festive mode** for the holidays: lights, snow and a Holiday tab, all switchable.
 
 <div align="center">
-<img src="images/mini.png" width="420" alt="Mini player">
+<img src="images/mini.png" width="420" alt="Mini player"><br>
+<sub>The mini player</sub>
 </div>
 
 ## Install
@@ -62,3 +65,9 @@ Windows **Settings → Apps → Installed apps → PebblePlayer → Uninstall**.
 **Does it replace the Spotify app?** You can use it instead of the Spotify app for listening, or alongside it. Your playlists and likes are the same.
 
 **Something not working?** [Open an issue](https://github.com/saintzdid12/pebble/issues) and tell us what happened.
+
+---
+
+<div align="center">
+<sub>Made by Saintz · Music, artwork and song info come from Spotify. PebblePlayer isn't made by or affiliated with Spotify.</sub>
+</div>
