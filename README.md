@@ -28,12 +28,10 @@
 - **Mini player** that floats on top while you work or game.
 - **Listening parties.** Listen together with friends, take turns picking songs, or let Party Mix pick from everyone's likes.
 - **A queue that works like Spotify's**, plus your own music files from this PC.
-- **Made for streamers.** A sharp OBS overlay, Twitch chat song requests (`!sr song name`), and music on its own OBS audio track.
 - **Festive mode** for the holidays: lights, snow and a Holiday tab, all switchable.
 
 <div align="center">
-<img src="images/mini.png" width="420" alt="Mini player"><br><br>
-<img src="images/overlay.png" width="640" alt="Stream overlay with a song request">
+<img src="images/mini.png" width="420" alt="Mini player">
 </div>
 
 ## Install
@@ -48,11 +46,9 @@
 
 ## Updates
 
-PebblePlayer checks for a new version each time it opens. When there is one, a small banner appears at the top:
+PebblePlayer checks for a new version each time it opens. When there is one, a small green **Update** button appears next to the settings gear.
 
-> **PebblePlayer 1.9.7 is out** &nbsp; `Update`
-
-Click **Update** and it installs the new version and reopens by itself. Your sign-in, playlists and settings stay.
+Click it and PebblePlayer installs the new version and reopens by itself. Your sign-in, playlists and settings stay.
 You can also always grab the newest version from the [Releases page](https://github.com/saintzdid12/pebble/releases/latest).
 
 ## Uninstall
@@ -61,7 +57,7 @@ Windows **Settings → Apps → Installed apps → PebblePlayer → Uninstall**.
 
 ## Questions
 
-**Is it safe?** PebblePlayer only connects to what its features need: Spotify, the lyrics services, GitHub for updates, and Twitch chat if you turn on song requests. Every update is checked against its checksum before it installs.
+**Is it safe?** PebblePlayer only connects to what its features need: Spotify, the lyrics services, and GitHub for updates. Every update is checked against its checksum before it installs.
 
 **Does it replace the Spotify app?** You can use it instead of the Spotify app for listening, or alongside it. Your playlists and likes are the same.
 
