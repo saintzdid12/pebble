@@ -4,7 +4,7 @@
 
 # PebblePlayer
 
-**Your Spotify on Windows, with synced lyrics, a mini player and listening parties, using a fraction of the memory.**
+**The full Spotify experience on Windows, with a clean macOS-style look and a fraction of the memory.**
 
 <a href="https://github.com/saintzdid12/pebble/releases/latest/download/PebblePlayer.exe">
   <img src="https://img.shields.io/github/v/release/saintzdid12/pebble?style=for-the-badge&label=Download%20for%20Windows&color=2385aa&logo=windows11&logoColor=white&cacheSeconds=3600" alt="Download PebblePlayer for Windows" height="44">
@@ -23,7 +23,7 @@
 ## Why PebblePlayer
 
 - **Easy on your PC.** Under 1 MB to download, and far less memory than the regular Spotify app. Games and streams stay smooth.
-- **Clean.** Glass design that takes its colors from the album art. No ads, no clutter.
+- **Clean, macOS-style look.** Glass design that takes its colors from the album art. No ads, no clutter.
 - **Synced lyrics** that load fast, plus lyrics for the next songs ready before they play.
 - **Mini player** that floats on top while you work or game.
 - **Listening parties.** Listen together with friends, take turns picking songs, or let Party Mix pick from everyone's likes.
